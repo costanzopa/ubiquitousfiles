@@ -1,0 +1,21 @@
+#ifndef COMANDOS_H_
+#define COMANDOS_H_
+
+/*
+ *      Name: ./common/Comandos.h
+ * Copyright: Eclipse Public License - v 1.0
+ *   Version: 1.0
+ *    Author: GRUPO 08 [COSTANZO, Pablo (90826) - FATUR, Iván (84491)]
+ */
+
+#define COMANDO_ERROR "COMANDO INCORRECTO"
+#define REGISTRACION "REGISTRACION:"
+#define NO_REGISTRADO "DATOS INCORRECTOS"
+#define SI_REGISTRADO "DATOS CORRECTOS"
+
+#define BORRAR_ARCHIVO "BORRAR ARCHIVO"
+#define CREAR_ARCHIVO "CREAR ARCHIVO"
+#define ENVIAR_ARCHIVO_MODIFICAR "ENVIAR ARCHIVO MODIFICAR"
+#define MODIFICAR_ARCHIVO "MODIFICAR ARCHIVO"
+
+#endif /* COMANDOS_H_ */
